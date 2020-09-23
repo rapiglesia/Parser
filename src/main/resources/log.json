@@ -1,0 +1,30 @@
+{
+	"log1":
+	{
+		"datestamp" : "2020-03-13 14h31",
+		"level" : 3,
+		"type" : "critical",
+		"detail": "You have an exam !"
+	},
+	"log3":
+	{
+		"datestamp" : "2020-03-13 18h31",
+		"level" : 2,
+		"type" : "serious",
+		"detail": "Thirst is coming"
+	},
+	"log2":
+	{
+		"datestamp" : "2020-02-13 20h00",
+		"level" : 3,
+		"type" : "critical",
+		"detail": "Project crisis"
+	},	
+	"log8":
+	{
+		"datestamp" : "2020-03-11 10h31",
+		"level" : 1,
+		"type" : "inforation",
+		"detail": "it's morning"
+	}	
+}
